@@ -1,0 +1,1 @@
+alert("Bonjour. Bienvenue sur le site de Fatou Binetou ")
